@@ -1,8 +1,0 @@
-The dashboard consists of several logical parts:
-- The service`s audience and the dynamics of the number of users and couriers;
-- Some Product metrics;
-- Some Marketing metrics.
-
-The dashboard is built on the Redash platform
-
-https://redash.public.karpov.courses/public/dashboards/o5mgqCaqEQl2tzRKa9A0jv3I4Jb4mIZIZfV6129v?org_slug=default
